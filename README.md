@@ -1,4 +1,4 @@
-Heres a preview of the "[TopG] (https://github.com/MoReReAsOnAbLe/MoreReasonable-s-Flipper-assets-/tree/main/Animations)" Animation
+Heres a preview of the "[TopG](https://github.com/MoReReAsOnAbLe/MoreReasonable-s-Flipper-assets-/tree/main/Animations)" Animation
 
 
 ![](TopG.gif)

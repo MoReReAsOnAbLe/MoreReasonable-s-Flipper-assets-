@@ -15,4 +15,4 @@ Heres a preview of the "Mazda_Maita" Animation
 Heres a preview of the "Zyzz" Animation
 
 
-![](Zyzz.gif)
+![](Zyzz1.gif)
